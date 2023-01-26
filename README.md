@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Merhii
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning C++/javascript
+- 🌱 I’m currently learning C++/Python/f;utter and dart
 - 📫 Reach me @ themerhi@hotmail.com
 
 <!---
