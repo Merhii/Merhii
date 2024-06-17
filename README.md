@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Merhii<br>👀 I’m interested in everything<br>🌱 I’m currently learning Python/JavaScript<br>📫 Reach me @ merhikarim@hotmail.com
+👋 Hi, I’m @Merhii<br>👀 I’m interested in Mobile Development <br>🌱 I’m currently learning Java & Swift <br>📫 Reach me @ merhikarim@hotmail.com
 
 
 ## 🌐 Socials:
