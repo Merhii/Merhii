@@ -3,4 +3,4 @@
 👀 Software Engineer @ Whish Money<br>
 🌱 Java Spring Boot<br>
 💵 Currently bulding moniz<br>
-📫 Reach me @ merhikarim@hotmail.com
+📫 Reach me @ mmerhikarim@gmail.com
