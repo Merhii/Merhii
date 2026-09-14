@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Merhii<br>
 👀 Software Engineer @ Whish Money<br>
-🌱 Java Spring Boot<br>
+🌱 Java Spring Boot <br>
 💵 Currently bulding moniz<br>
 📖 Books I love:<br>
 📚 The Software Engineer's Guidebook | Gergely Orosz<br>
